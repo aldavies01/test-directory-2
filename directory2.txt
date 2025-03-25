@@ -1,4 +1,9 @@
 This file is now edited 
 More editing..
 And again..
+<<<<<<< HEAD
 hello
+=======
+Test edit
+Test edit 2
+>>>>>>> 8c6586d34662f22361a592882c9177b464103d3b
